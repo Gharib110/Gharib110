@@ -35,7 +35,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 👨‍💻 My Personal Website [alirezagharib.ir](https://alirezagharib.ir)
 
-- 👋 You can also see my [gitlab](https://gitlab.com/DapperBlondie)
+- 👋 You can also see my [gitlab](https://gitlab.com/Gharib110)
 
 - 📝 I regularly write blog about everything [My Personal Blog](https://blogs.alirezagharib.ir)
 
