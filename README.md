@@ -2,7 +2,7 @@
 <img width="100%" height = "200px" src="https://i.ibb.co/HgM9bPK/Linked-In-Cover-Flambee.jpg" alt="cover" />
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
-<h3 align="center">A Motivated Junior Back-End Developer</h3>
+<h3 align="center">Software & Control Engineer</h3>
 <h4 align="Justify"> I am student of Control (Major) and Computer (Minor) Engineering at Iran University of Science & Technology.
 Passionate and motivated Junior Developer.
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
