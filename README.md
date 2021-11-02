@@ -11,8 +11,8 @@ I have started with C and C++ and have learned about algorithmic vision then I h
   software engineering and design patterns;Now, I am Gopher🙂 and working on Golang with ❤️❤️❤️❤️.Also, working on Cloud Computing, Golang❤️ and Rust/C++ simultaneously.<br>
 </h6>
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/DapperBlondie)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/DapperBlondie)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Gharib110)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Gharib110)](https://badges.pufler.dev)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 
@@ -23,7 +23,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /> <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" /> <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /> <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" /> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dapperblondie&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gharib110&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dapperblondie" target="blank"><img src="https://img.shields.io/twitter/follow/dapperblondie?logo=twitter&style=for-the-badge" alt="dapperblondie" /></a> </p>
 
