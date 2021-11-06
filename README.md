@@ -56,38 +56,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <br>
 
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <br>
-
-
-- ❤️ Programming with Google Golang Specialization [link](https://www.coursera.org/account/accomplishments/specialization/certificate/CDWNV867U4EH)
-
-- ❤️ Jetbrains Kotlin For Developers [link](https://www.coursera.org/account/accomplishments/certificate/SS8DEN5U9VGN)
-
-- ❤️ Google Crash Course on Python [link](https://www.coursera.org/account/accomplishments/certificate/VBQ6EA7YZRPX)
-
-- ❤️ Using Python to Interact with the OS [link](https://www.coursera.org/account/accomplishments/certificate/RCCZCE87Y2FS)
-
-- ❤️ Introduction to git & github [link](https://www.coursera.org/account/accomplishments/certificate/L3QJH4SBQT9X)
-
-- ❤️ IBM Introduction to Cloud Computing [link](https://www.coursera.org/account/accomplishments/certificate/JTQRW6FSMPFX)
-
-<br>
-
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-- ❤️ Golang Basic Certification [link](https://www.hackerrank.com/certificates/fecf0b34c802)
-
-- ❤️ Python Basic Certification [link](https://www.hackerrank.com/certificates/9d0f3fd24fcf)
-
-- ❤️ Java Basic Certification [link](https://www.hackerrank.com/certificates/72def3f90c21)
-
-- ❤️ Javascript Basic Certification [link](https://www.hackerrank.com/certificates/b9db46f79240)
-
-- ❤️ Rest API Intermediate Certification [link](https://www.hackerrank.com/certificates/ad03a50e26db)
-
-- ❤️ SQL Basic Certification [link](https://www.hackerrank.com/certificates/30f1b8d7f7c0)
-
-- ❤️ SQL Intermediate Certification [link](https://www.hackerrank.com/certificates/6843a81cdf14)
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
