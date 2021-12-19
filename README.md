@@ -25,7 +25,6 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gharib110&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dapperblondie" target="blank"><img src="https://img.shields.io/twitter/follow/dapperblondie?logo=twitter&style=for-the-badge" alt="dapperblondie" /></a> </p>
 
 - 🔭 I’m currently working on **Golang, DevOps, C++/Qt/OpenGL and Linux System Adminstration**
 
@@ -37,7 +36,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 👋 You can also see my [gitlab](https://gitlab.com/Gharib110)
 
-- 📝 I regularly write blog about everything [My Personal Blog](https://blogs.alirezagharib.ir)
+- 📝 Look at my LinkedIn Account [linkedin](https://linkedin.com/in/alireza-gharib)
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
 
