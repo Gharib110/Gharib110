@@ -36,7 +36,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 👋 You can also see my [gitlab](https://gitlab.com/Gharib110)
 
-- 📝 Look at my LinkedIn Account [linkedin](https://linkedin.com/in/alireza-gharib)
+- 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
 
