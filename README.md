@@ -1,10 +1,10 @@
 <div align="center">
   <p>Science is like a <strong>Grapes Graden</strong><br>
-  When Grapes are sour they are useful<br>
-  When we pick them off the trees & eat them, will be Invigorating & Useful<br>
-  When we make wine, will be Tasty & Useful<br>
-  When turn into raisins they, will be Life-giving & Useful<br>
-  Ok, Which one do you prefer ?!<br>
+  When <strong>Grapes are sour</strong> they are useful<br>
+  When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
+  When <strong>we make wine</strong>, will be Tasty & Useful<br>
+  When <strong>turn into raisins</strong>, will be Life-giving & Useful<br>
+  Ok, Which one do you prefer, pale ?!<br>
   -- Alireza Gharib --
   </p>
 </div>
