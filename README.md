@@ -1,5 +1,12 @@
 <div align="center">
-<img width="100%" height = "200px" src="https://i.ibb.co/HgM9bPK/Linked-In-Cover-Flambee.jpg" alt="cover" />
+  <p>Science is like a <strong>Grapes Graden</strong><br>
+  When Grapes are sour they are useful<br>
+  When we pick them off the trees & eat them, will be Invigorating & Useful<br>
+  When we make wine, will be Tasty & Useful<br>
+  When turn into raisins they, will be Life-giving & Useful<br>
+  Ok, Which one do you prefer ?!<br>
+  -- Alireza Gharib --
+  </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">Software & Control Engineer</h3>
