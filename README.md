@@ -1,10 +1,10 @@
 <div align="center">
   <p>Science is like a <strong>Grapes Graden</strong><br>
-  When <strong>we have sour grapes</strong> will be acetose & useful<br>
+  When <strong>we have sour grapes</strong> will be Acetose & Useful<br>
   When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
   When <strong>we make wine</strong>, will be Healing & Useful<br>
   When <strong>turn into raisins</strong>, will be Life-giving & Useful<br>
-  Ok, Which one do you prefer, comrade ?!<br>
+  Ok, Which one do you prefer, mate ?!<br>
   -- Alireza Gharib --
   </p>
 </div>
