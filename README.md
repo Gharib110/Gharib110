@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Science is like a <strong>Grapes Graden</strong><br>
+  <p>Science is like <strong>Grapes</strong><br>
   When <strong>we have sour grapes</strong> will be Acetose & Useful<br>
   When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
   When <strong>we make wine</strong>, will be Healing & Useful<br>
