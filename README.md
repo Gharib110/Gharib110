@@ -4,7 +4,7 @@
   When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
   When <strong>we make wine</strong>, will be Healing & Useful<br>
   When <strong>turn into raisins</strong>, will be Life-giving & Useful<br>
-  Ok, Which one do you prefer, friend ?!<br>
+  Ok. Which one do you prefer, friend ?!<br>
   -- Alireza Gharib --
   </p>
 </div>
