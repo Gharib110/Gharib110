@@ -65,7 +65,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dapperblondie" height="30" width="40" /></a>
+<a href="https://twitter.com/Gharib110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dapperblondie" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alireza-gharib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alireza-gharib" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dapperblondie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dapperblondie" height="30" width="40" /></a>
 <a href="https://discord.gg/Alireza#3940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alireza#3940" height="30" width="40" /></a>
