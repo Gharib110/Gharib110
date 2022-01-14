@@ -56,7 +56,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - ❤️ I am not programming for money, that's a humble goal. I am programming because **I LOVE IT, LIVE FOR IT**
 
-- ❤️😍 I am frequently use these DevOps tools : <br><br>
+- ❤️😍 I frequently use these DevOps tools : <br><br>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" /> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 
 <br>
