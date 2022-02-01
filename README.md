@@ -40,8 +40,6 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 👨‍💻 My Personal Website [alirezagharib.ir](https://alirezagharib.ir)
 
-- 👋 You can also see my [gitlab](https://gitlab.com/Gharib110)
-
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
@@ -52,7 +50,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 📄 Know about my experiences and Skills [My Online CV](https://alirezagharib.ir/online-cv)
 
-- 😍 If you would like to know about Golang Famous Packages [Gopher Land](https://gopher-land.ir) 😃
+- 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/Dapper_Geeks) 😃
 
 - ❤️ I am not programming for money, that's a humble goal. I am programming because **I LOVE IT, LIVE FOR IT**
 
