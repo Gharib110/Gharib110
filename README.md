@@ -50,7 +50,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 📄 Know about my experiences and Skills [My Online CV](https://alirezagharib.ir/online-cv)
 
-- 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/Dapper_Geeks) 😃
+- 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/Happy_Geeks) 😃
 
 - ❤️ I am not programming for money, that's a humble goal. I am programming because **I LOVE IT, LIVE FOR IT**
 
