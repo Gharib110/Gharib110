@@ -17,7 +17,6 @@ technologies and trying to up to date.<br>
 I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns;Now, I am Gopher🙂❤️❤️❤️❤️.Also, working on AI, Rust/C++ & Parallel Programming simultaneously.<br>
 </h6>
 
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Gharib110)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Gharib110)](https://badges.pufler.dev)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
