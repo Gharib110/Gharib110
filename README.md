@@ -14,7 +14,7 @@
 Passionate and motivated Junior Developer.
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
 technologies and trying to up to date.<br>
-I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns;Now, I am Gopher🙂❤️❤️❤️❤️.Also, working on AI, Rust/C++ & Parallel Programming simultaneously.<br>
+I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns;Now, I am Gopher🙂❤️.Also, working on DataScience, Rust, Blockchain, CryptoCurrencies, Web3.0 & Metaverse.<br>
 </h6>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
