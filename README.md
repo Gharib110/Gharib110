@@ -42,7 +42,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
 
-- 💬 Ask me about **Golang, Js, Java and DevOps**
+- 💬 Ask me about **Golang, NodeJs, Java, Python, Linux, C++ and more**
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
 
