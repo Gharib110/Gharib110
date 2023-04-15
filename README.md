@@ -10,7 +10,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">Software & Control Engineer</h3>
-<h4 align="Justify"> Passionate and motivated Junior Developer.
+<h4 align="Justify"> Passionate and Motivated
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
 technologies and trying to up to date.<br>
 I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns;Now, I am Gopher & Love Golang🙂❤️<br> Currently working on Machine Learning Algorithms, Unreal Engine & Game Dev & Web Dev.
