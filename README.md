@@ -9,7 +9,7 @@
   </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
-<h3 align="center">Software & Control Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <h4 align="Justify"> Passionate and Motivated
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
 technologies and trying to up to date.<br>
