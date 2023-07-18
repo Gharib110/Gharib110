@@ -28,6 +28,7 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gharib110&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
+- [My Telegram Theme](https://t.me/addtheme/JudyAlvarez)
 
 - 🔭 I’m currently working on **Golang, DevOps, C++/Qt/OpenGL and Linux System Adminstration**
 
