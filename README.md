@@ -3,7 +3,7 @@
   When <strong>we have sour grapes</strong> will be Acetose & Useful<br>
   When <strong>we pick them off the trees & eat them</strong>, will be Invigorating & Useful<br>
   When <strong>we make wine</strong>, will be Healing & Useful<br>
-  When <strong>turn into raisins</strong>, will be Life-giving & Useful<br>
+  When <strong>we turn them into raisins</strong>, will be Life-giving & Useful<br>
   Alright! Which one do you prefer, friend ?!<br>
   -- Alireza Gharib --
   </p>
