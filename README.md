@@ -9,12 +9,11 @@
   </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineering</h3>
 <h4 align="Justify"> Passionate and Motivated
 A spontaneous programmer in learning, active and disciplined in learning and teaching new
-technologies and trying to up to date.<br>
-I have started with C and C++ and have learned about algorithmic vision then I have met Java❤️  and have been working on it and Spring Core & Kotlin for 2 years and have learned about software engineering and design patterns;Now, I am Gopher & Love Golang🙂❤️<br> Currently working on Machine Learning Algorithms, Unreal Engine & Web Dev.
-</h6>
+technologies and trying to be up to date 🙂❤️<br/>
+<br/>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
@@ -36,7 +35,13 @@ I have started with C and C++ and have learned about algorithmic vision then I h
 
 - 👯 I’m looking to collaborate on **any type of Golang Projects**
 
-- 👨‍💻 My Personal Website [alirezagharib.ir](https://alirezagharib.ir)
+- 👨‍💻 My Personal Website [AlirezaGharib](https://alirezagharib.ir)
+
+- 🐘 My Personal Mastodon [Social](https://social.alirezagharib.ir/@alireza)
+
+- 💻 My Personal Blog [Blog](https://blog.alirezagharib.ir)
+
+- 🐭 My Personal Fediverse [Lemmy](https://fedi.alirezagharib.ir)
 
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
