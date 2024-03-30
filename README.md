@@ -10,8 +10,8 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">Software Engineering</h3>
-<h4 align="Justify"> Passionate and Motivated
-A spontaneous programmer in learning, active and disciplined in learning and teaching new
+<h4 align="Justify"> Passionate, Motivated
+and spontaneous programmer in learning, active and disciplined in learning new
 technologies and trying to be up to date 🙂❤️<br/>
 <br/>
 
