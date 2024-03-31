@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
 <h3 align="center">Software Engineering</h3>
 <h4 align="Justify"> Passionate, Motivated
-and spontaneous programmer in learning, active and disciplined in learning new
+and spontaneous developer, active and disciplined in learning new
 technologies and trying to be up to date 🙂❤️<br/>
 <br/>
 
@@ -42,6 +42,8 @@ technologies and trying to be up to date 🙂❤️<br/>
 - 💻 My Personal Blog [Blog](https://blog.alirezagharib.ir)
 
 - 🐭 My Personal Fediverse [Lemmy](https://fedi.alirezagharib.ir)
+
+- 📷 My Personal Pixels [Pixelfed](https://pixel.alirezagharib.ir/alireza)
 
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
