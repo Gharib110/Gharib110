@@ -45,6 +45,8 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 📷 My Personal Pixels [Pixelfed](https://pixel.alirezagharib.ir/alireza)
 
+- 📘 My Personal Memos [Memos](https://memos.alirezagharib.ir)
+
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
