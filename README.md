@@ -59,7 +59,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
 
-- 📄 Know about my experiences and Skills [My Online CV](https://alirezagharib.ir/online-cv)
+- 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
 - 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/HappyGeeks) 😃
 
