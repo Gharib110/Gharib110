@@ -47,6 +47,10 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 📘 My Personal Memos [Memos](https://memos.alirezagharib.ir)
 
+- 🌎 My Personal Hub [Hubzilla](https://hub.alirezagharib.ir/channel/alireza)
+
+- 🌐 My Personal Pod [Diaspora](https://pod.alirezagharib.ir/u/alireza)
+
 - 📝 Look at my LinkedIn Account to see my Experiences, Skills & Certifications [linkedin](https://linkedin.com/in/alireza-gharib)
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
