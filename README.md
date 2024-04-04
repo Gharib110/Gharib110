@@ -57,7 +57,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 💬 Ask me about **Golang, NodeJs, Java, Python, Linux, C++ and more**
 
-- 📫 How to reach me **alirezagharib110@gmail.com** and **alireza_gharib@elec.iust.ac.ir**
+- 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@ghariib.ir**
 
 - 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
