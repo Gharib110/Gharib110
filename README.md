@@ -27,7 +27,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gharib110&label=Profile%20views&color=0e75b6&style=flat" alt="dapperblondie" /> </p>
 
-- [My Telegram Theme](https://t.me/addtheme/JudyAlvarez)
+- 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
 - 🔭 I’m currently working on **Golang, DevOps, C++/Qt/OpenGL and Linux System Adminstration**
 
@@ -58,8 +58,6 @@ technologies and trying to be up to date 🙂❤️<br/>
 - 💬 Ask me about **Golang, NodeJs, Java, Python, Linux, C++ and more**
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@ghariib.ir**
-
-- 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
 - 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/HappyGeeks) 😃
 
