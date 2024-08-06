@@ -5,7 +5,6 @@
   When <strong>we make wine</strong>, will be Healing & Useful<br>
   When <strong>we turn them into raisins</strong>, will be Life-giving & Useful<br>
   Alright! Which one do you prefer, friend ?!<br>
-  -- Alireza Gharib --
   </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
