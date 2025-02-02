@@ -21,7 +21,7 @@ Democracy is two wolves and a lamb voting on what to have for lunch. <strong>Lib
   </p>
 </div>
 <h1 align="center">Hi 👋, I'm Alireza Gharib</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Software Developer</h3>
 <h4 align="Justify"> Passionate, Motivated
 and spontaneous developer, active and disciplined in learning new
 technologies and trying to be up to date 🙂❤️<br/>
