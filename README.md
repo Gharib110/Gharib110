@@ -41,9 +41,9 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 📄 Know about my experiences and Skills [My Online CV](https://drive.google.com/file/d/1cNKpwsf1C8zOJToAetc2lZER_J3-49YY/view?usp=drivesdk)
 
-- 🔭 I’m currently working on **Golang, DevOps, C++/Qt/OpenGL and Linux System Adminstration**
+- 🔭 I’m currently working on **Cybersecurity and DevOps**
 
-- 🌱 I’m currently learning **Rust, Kotlin and Scala**
+- 🌱 I’m currently learning **Rust and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **any type of Golang Projects**
 
@@ -55,7 +55,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 🤩 My HackerRank Profile [link](https://www.hackerrank.com/alirezagharib110)
 
-- 💬 Ask me about **Golang, NodeJs, Java, Python, Linux, C++ and more**
+- 💬 Ask me about **Golang, Rust, Cybersecuritye**
 
 - 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@ghariib.ir**
 
