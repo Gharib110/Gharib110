@@ -99,4 +99,3 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gharib110&show_icons=true&locale=en" alt="dapperblondie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gharib110&" alt="dapperblondie" /></p>
