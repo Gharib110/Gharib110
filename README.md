@@ -57,7 +57,7 @@ technologies and trying to be up to date 🙂❤️<br/>
 
 - 💬 Ask me about **Golang, Rust, Cybersecuritye**
 
-- 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@ghariib.ir**
+- 📫 How to reach me **alirezagharib110@gmail.com** and **alireza@gharib.us**
 
 - 😍 Take a look at my telegram channel if you are a Geek [Invite Link](https://t.me/HappyGeeks) 😃
 
